@@ -12,6 +12,15 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2025-07-03T08:11:14.991573979Z"
+    description: A Helm chart to sync secret from Vault
+    digest: 263181a5246a63be93ad309854088a6ad805728ebea5dabfb85e7f7154128586
+    name: vault-static-secret
+    urls:
+    - https://github.com/vintechlab/vinhelm/releases/download/vault-static-secret-0.1.2-test005/vault-static-secret-0.1.2-test005.tgz
+    version: 0.1.2-test005
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2025-07-03T07:56:18.706253915Z"
     description: A Helm chart to sync secret from Vault
     digest: 4bbdc427c09d3890206ae69ef62bade4791283e11caf639656b5750f5f46de3d
@@ -46,4 +55,4 @@ entries:
     urls:
     - https://github.com/vintechlab/helmcharts/releases/download/vault-static-secret-0.1.2-test001/vault-static-secret-0.1.2-test001.tgz
     version: 0.1.2-test001
-generated: "2025-07-03T07:56:18.706286907Z"
+generated: "2025-07-03T08:11:14.991615877Z"
